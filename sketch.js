@@ -60,7 +60,7 @@ let systems = [];
 
 function setup() {
   let text = createP("👉click to add particle systems");
-  text.position(10, 565);
+  text.position(10, 500);
 
   createCanvas(640, 360);
 }
