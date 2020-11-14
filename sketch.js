@@ -59,8 +59,8 @@ class ParticleSystem {
 let systems = [];
 
 function setup() {
-  let text = createP("click to add particle systems");
-  text.position(10, 365);
+  let text = createP("👉click to add particle systems");
+  text.position(10, 565);
 
   createCanvas(640, 360);
 }
